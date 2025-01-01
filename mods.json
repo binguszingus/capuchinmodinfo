@@ -9,5 +9,16 @@
         "type": "Library",
         "repo": "LavaGang/MelonLoader",
         "download": "https://github.com/LavaGang/MelonLoader/releases/download/v0.6.6/MelonLoader.x64.zip"
-    }
+    },
+    {
+        "name": "I2LCPPDumper",
+        "author": "Perfare",
+        "filenames": [
+            "EXC_PLACEHOLDER.DONOTREMOVE"
+        ],
+        "keyword": "I2LCPPDumper",
+        "type": "Library",
+        "repo": "Perfare/I2LCppDumper",
+        "download": "https://github.com/Perfare/Il2CppDumper/releases/download/v6.7.40/Il2CppDumper-win-v6.7.40.zip"
+    },
 ]
