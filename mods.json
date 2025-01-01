@@ -1,13 +1,13 @@
 [
     {
-        "name": "BepInEx",
-        "author": "BepInEx",
+        "name": "MelonLoader",
+        "author": "LavaGang",
         "filenames": [
             "EXC_PLACEHOLDER.DONOTREMOVE"
         ],
-        "keyword": "BepInEx",
+        "keyword": "MelonLoader",
         "type": "Library",
-        "repo": "BepInEx/BepInEx",
-        "download": "https://github.com/BepInEx/BepInEx/releases/download/v5.4.23.2/BepInEx_win_x64_5.4.23.2.zip"
+        "repo": "LavaGang/MelonLoader",
+        "download": "https://github.com/LavaGang/MelonLoader/releases/download/v0.6.6/MelonLoader.x64.zip"
     }
 ]
