@@ -1,13 +1,13 @@
 [
     {
-        "name": "MelonLoader",
-        "author": "LavaGang",
+        "name": "BepInEx",
+        "author": "BepInEx",
         "filenames": [
             "EXC_PLACEHOLDER.DONOTREMOVE"
         ],
-        "keyword": "MelonLoader",
+        "keyword": "BepInEx",
         "type": "Library",
-        "repo": "LavaGang/MelonLoader",
-        "download": "https://github.com/LavaGang/MelonLoader/releases/download/v0.6.6/MelonLoader.x64.zip"
+        "repo": "BepInEx/BepInEx",
+        "download": "https://github.com/BepInEx/BepInEx/releases/download/v6.0.0-pre.2/BepInEx-Unity.IL2CPP-win-x64-6.0.0-pre.2.zip"
     },
 ]
